@@ -11,7 +11,8 @@ alias sdi="sudo dpkg -i "  # Sudo dpkg -i _Local Package Name_
 alias dbx="docker buildx build " # Docker build Command
 alias pix="pip install " # Pip Install _Package Name_
 alias ni="npm install " # Npm install  _Package Name_
-alias kubectl="minikube kubectl --" # Kubectl easy
+alias kubectl="minikube kubectl --" # Kubectl easy (use only, if not installed manually)
+alias ssi="sudo snap install " # Sudo snap install <packagename> --classic <optional>
 ```
 
 ## to Setup:
