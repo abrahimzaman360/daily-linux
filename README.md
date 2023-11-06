@@ -7,7 +7,7 @@
 ```shell
 alias coa="conda activate " # Conda Activate _Env Name_
 alias sai="sudo apt install " # Sudo apt install _Package Name_
-alias ssi="sudo snap install " # Sudo snap install package_namw_
+alias coi="conda install " # conda install _pkg_name
 alias sdi="sudo dpkg -i "  # Sudo dpkg -i _Local Package Name_
 alias dbx="docker buildx build " # Docker build Command
 alias pix="pip install " # Pip Install _Package Name_
